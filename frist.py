@@ -1,1 +1,3 @@
-print("myself sushil khanal startin to learn python from scratch")
+a = 25
+b = 3 
+print(a+b)
