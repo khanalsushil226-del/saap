@@ -1,3 +1,5 @@
-name = "Sushil Khanal"
 age = 19
-print(name, age)
+old = None
+
+print(type (age))
+print(type (old))
