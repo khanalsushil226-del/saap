@@ -1,3 +1,3 @@
-C = float(input("enter the temperature in celcius: "))
-F = (C * 9/5)+32
-print("temperature in farenheit is: ", F)
+str1 ="sushil_khanal"
+ch = str1[8]
+print(ch)
