@@ -1,2 +1,3 @@
-str = "sushil_khanal"
-print(str.replace("u", "s"))
+str = input("enter your first name")
+length = len(str)
+print("your length of first name is: ", length)
