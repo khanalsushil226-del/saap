@@ -1,5 +1,4 @@
-num = int(input("enter your number: "))
-if(num%2 ==0):
-    print("even")
-else:
-    print("odd")
+for i in range (1,101):
+    if (i %2 != 0):
+        print(i, end=" ")
+    
